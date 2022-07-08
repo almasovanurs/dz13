@@ -54,7 +54,7 @@ public class Main {
 //        cat.Play();
 
         Popugai parrot = new Popugai();
-        parrot.setName("Aylin");
+        parrot.setName("Aylin2");
         parrot.setAge(4);
         parrot.setBreed("One the best breed");
         parrot.setColour("Blue");
